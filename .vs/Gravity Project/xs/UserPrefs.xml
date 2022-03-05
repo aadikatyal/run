@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{A1D825A9-651A-7C25-513A-B867898A2064}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Movement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraControl.cs">
     <Files>
-      <File FileName="Assets/Movement.cs" Line="54" Column="40" />
-      <File FileName="Assets/MapGenerator.cs" Line="14" Column="26" />
-      <File FileName="Assets/CameraControl.cs" Line="17" Column="103" />
+      <File FileName="Assets/Movement.cs" Line="54" Column="31" />
+      <File FileName="Assets/MapGenerator.cs" Line="60" Column="2" />
+      <File FileName="Assets/CameraControl.cs" Line="13" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Gravity Project" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Movement.cs" selected="True" />
+              <Node name="CameraControl.cs" selected="True" />
             </Node>
           </Node>
         </State>
